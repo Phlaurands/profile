@@ -48,6 +48,16 @@ ul {
     text-align: center;
 }
 
+.card-job {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  padding: 0px 1em 1em 1em ;
+  margin: 0px 1em;
+  border: 1px solid #575F7D;
+  border-radius: 10px;
+}
+
 .img-circle {
     border-radius: 50%;
     width: 120px;
