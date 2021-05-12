@@ -25,7 +25,15 @@ h1, h2 {
     font-family: 'Roboto', sans-serif;
 }
 
+ul {
+    padding-left: 0px;
+    list-style: none;
+}
+
+
 /*          class           */
+
+
 .container {
     width: 700px;
     margin: 0 auto;
@@ -62,8 +70,6 @@ h1, h2 {
 .list-inline {
     margin: 0 0;
     font-size: 50px;
-    list-style: none;
-    padding-left: 0px;
 }
 
 .list-inline li {
